@@ -3,6 +3,7 @@ Proyecto Final para el curso de minería de datos, 2021 primer semestre de la Un
 
 Integrantes:
   Camila Muñoz, Ingeniería Civil Geológica
+  
   Yerko Sepúlveda, Ingeniería Civil en Computación
   
 Para replicar el trabajo se recomienda usar un ambiente virtual environment.yml para no tener problemas con las versiones de las bibliotecas utilizadas.
