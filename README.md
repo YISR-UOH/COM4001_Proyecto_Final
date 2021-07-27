@@ -2,6 +2,7 @@
 Proyecto Final para el curso de minería de datos, 2021 primer semestre de la Universidad de O'Higgins.
 
 Integrantes:
+
   Camila Muñoz, Ingeniería Civil Geológica
   
   Yerko Sepúlveda, Ingeniería Civil en Computación
